@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <h1>Hello world!</h1>
-      <p>
+      <p className="mt-3">
         This is the beginning.
       </p>
     </>
