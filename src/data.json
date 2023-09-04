@@ -1,0 +1,45 @@
+{
+  "lists": [
+    {
+      "name": "Crossfit",
+      "items": [
+        "shirt",
+        "shorts",
+        "shoes",
+        "socks",
+        "bottle",
+        "recovery drink"
+      ]
+    },
+    {
+      "name": "Summer cabin",
+      "items": [
+        "Sleeping bag",
+        "Sleeping mask",
+        "Towel"
+      ]
+    },
+    {
+      "name": "Swimming",
+      "items": [
+        "Swimming trunks",
+        "Towel"
+      ]
+    },
+    {
+      "name": "Hiking",
+      "items": [
+        "Sleeping bag",
+        "Sleeping mattress",
+        "Tent"
+      ]
+    },
+    {
+      "name": "Band gig",
+      "items": [
+        "Octapad",
+        "Drum throne"
+      ]
+    }
+  ]
+}
